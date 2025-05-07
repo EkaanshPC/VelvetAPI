@@ -1,3 +1,5 @@
+/*Paste this to your world code.*/
+
 function velvetLoop(a,c){if(typeof a!=="number"||typeof c!=="function")throw new TypeError("VelvetAPI: Invalid arguments");while(a--)c();}
 let velvetTimers=[],velvetIntervals=[],tickFunctions=[];
 tick=()=>tickFunctions.forEach(f=>f());
