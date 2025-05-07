@@ -7,7 +7,7 @@ It provides essential scripting functions such as **loops, async execution, cust
 
 Whether you're developing **game logic, automating mechanics, or enhancing player interactions**, VelvetAPI delivers efficient tools to push Bloxd scripting **to its limits!** 🚀  
 
-![VelvetAPI Banner](main/VelvetAPI_Banner.png)
+![VelvetAPI Banner](VelvetAPI_Banner.png)
 
 Examples:
 
