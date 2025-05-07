@@ -132,4 +132,4 @@ This API is licensed under the **Creative Commons Attribution-NonCommercial-Shar
 > - **Commercial** — You may use VelvetAPI for commercial purposes.
 > - **ShareAlike** — If you remix, transform, or build upon VelvetAPI, you must distribute your contributions under the same license.
 
-#### OPEN [Click here to download VelvetAPI.js](main/VelvetAPI.js) TO ADD IT TO YOUR WORLD!
+#### OPEN [VelvetAPI.js](main/VelvetAPI.js) TO ADD IT TO YOUR WORLD!
